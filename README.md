@@ -11,3 +11,4 @@ The programs we will use are PostgreSQL, NoSQL.
 Group Members :
 Arda Bulut 21732953
 Mehmet Mert Kacar 21733122
+Bager  Sakallı  21733227
