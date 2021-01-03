@@ -9,6 +9,6 @@ Our aim is to show who has supported the building that customers want to own and
 The programs we will use are PostgreSQL, NoSQL.
 
 Group Members :
-Arda Bulut 21732953
-Mehmet Mert Kacar 21733122
-Bager  Sakallı  21733227
+- Arda Bulut 21732953
+- Mehmet Mert Kacar 21733122
+- Bager  Sakallı  21733227
